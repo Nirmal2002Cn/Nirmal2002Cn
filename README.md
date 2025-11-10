@@ -55,18 +55,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm,yarn,eslint,prettier" />
 </p>
 
----
-
-## 💼 Featured Projects
-
-| 🚀 Project | 📝 Description | 🧠 Tech Stack |
-|:------------|:---------------|:--------------|
-| 🎓 **University Internal Mail System** | Web app for lecturers and students to manage internal mails | React.js, Node.js, Express.js, MongoDB |
-| 🛍️ **Shopping Website** | Responsive e-commerce website with backend and Cloudinary | React.js, Express.js, MongoDB |
-| 💬 **Chat App (Coming Soon)** | Real-time chat system with authentication | MERN Stack + Socket.io |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
